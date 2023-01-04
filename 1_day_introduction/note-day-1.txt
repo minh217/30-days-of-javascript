@@ -1,0 +1,13 @@
+1. Console log
+2. Add js to web page ways: 
+    Inline Script
+    Internal Script
+    External Script
+    Multiple External Script
+3 Data Types:
+    String 
+    Number
+    Boolean
+    undefined
+    Null
+    Symbol
